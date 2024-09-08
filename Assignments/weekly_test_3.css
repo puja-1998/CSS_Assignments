@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div1{
+   background: linear-gradient(to right, black, brown);
+   padding-block: 10px;
+    text-align: center;
+   color: white;
+}
+nav{
+    background-color: black;
+    padding-block: 30px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    justify-content: space-between;
+    
+}
+.block3{
+    background-image: url("./test_3_img1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 6% 10%;
+    color: white;
+}
+.div3{
+    background-color: rgb(0,0,0,0.7);
+    width: 70%;
+    padding: 2%;
+}
+.block4{
+    background-color: rgb(229,229,229);
+   padding: 1% 5%;
+   height: 50vh;
+   
+    
+}
+.div4{
+    background-color:rgb(160,160,160);
+    margin: 1%;
+}
+.div5{
+    display: flex;
+    margin-left: 8px;
+    margin-top: 20px;
+}
+#shoe1{
+    padding: 10px;
+    border-color: gray;
+}
+#shoe2{
+    padding: 5px;
+}
+#shoe3{
+    padding: 5px;
+}
+.block5{
+    background: linear-gradient(to right, gray,black);
+    padding-block: 300px;
+    text-align: center;
+    color: white;
+    /* height: 200px; */
+    
+}
+.div6{
+    background-image: linear-gradient(to right, black,B73C30);
+    /* height:  200px; */
+    padding-block: 100px;
+    color: white;
+}
+.img{
+    position: relative;
+    box-shadow: 20PX20PX;
+}
