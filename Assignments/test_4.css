@@ -149,7 +149,7 @@ h1{
     font-size: large;
 }
 .about{
-    padding: 7%;
+    padding: 7% 7% 0% 7%;
     line-height: 1.6;
 }
 .aboutus{
@@ -158,6 +158,9 @@ h1{
     align-items: center;
     flex-direction: column;
     padding: 2%;
+}
+.contact{
+    padding-top: 50px;
 }
 
 .final{
